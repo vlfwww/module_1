@@ -1,2 +1,2 @@
-initial text
-new text in feature-branch-1
+Initial text
+New text in "feature-branch-1"
